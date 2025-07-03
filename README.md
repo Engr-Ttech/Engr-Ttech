@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Engr-Ttech
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning game development
-- 💞️ I’m looking to collaborate on game developers
-- 📫 Reach me on facebook @engrttech 
+- 👋 Hi, I’m Founder
+- 👀 I’m interested in Softwares and Cybersecurity 
+- 🌱 I’m currently learning a lot
 
 <!---
 Engr-Ttech/Engr-Ttech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
